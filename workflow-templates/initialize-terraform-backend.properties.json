@@ -1,8 +1,0 @@
-{
-  "name": "Initialize TF backend Workflow",
-  "description": "Initialize TF backend for a TF state group",
-  "iconName": "example-icon",
-  "categories": [
-      "HCL"
-  ]
-}

@@ -1,0 +1,8 @@
+{
+  "name": "Initialize tiers for Azure",
+  "description": "Bootstrap Azure for TF enablement",
+  "iconName": "example-icon",
+  "categories": [
+      "HCL"
+  ]
+}
