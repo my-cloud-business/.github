@@ -9,7 +9,7 @@ jobs:
       region: westeurope
 
     environment:
-      name: ${{ env.region }}
+      name: westeurope-nonp
 
     steps:
       - name: Azure Login
